@@ -1,0 +1,44 @@
+h1 {
+    color: red;
+}
+
+.first {
+    background: blue;
+    width: 100px;
+    color: white;
+    margin-bottom: 100px;
+}
+
+.code {
+    color: red;
+}
+
+h2 {
+    background: green;
+    color: white;
+}
+
+a {
+    color: blue;
+}
+
+.skills {
+   padding-top: 40px;
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.formulars {
+    box-sizing: border-box;
+    width: 610px;
+}
+
+.formulars p {
+    text-align: center;
+}
+
+li {
+    border: 1px solid black;
+    font-size: 20px;
+    line-height: 1.1em;
+}
