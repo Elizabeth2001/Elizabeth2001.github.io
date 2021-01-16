@@ -1,0 +1,178 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h3 {
+    color: black;
+    font-size: 19px;
+    margin-top: 90px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+}
+
+div, p, input, button, form, span, a, ul, li {
+    box-sizing: border-box;
+}
+
+p {
+    line-height: 1.6 em;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1171px;
+    margin: 0 auto;
+}
+
+.header {
+    background: #40a3e9;
+    padding-top: 57px;
+    padding-bottom: 70px;
+}
+
+.wrapper {
+    display: flex;
+    align-content: space-between;
+}
+
+
+.mini-wrapper {
+    padding-top: 130px;
+}
+
+
+
+.title {
+    font-size: 37px;
+    width: 555px;
+}
+
+.dream {
+    font-size: 59px;
+}
+
+.content {
+    width: 395px;
+    margin-top: 44px;
+    font-size: 16px;
+}
+
+.btn {
+    text-decoration: none;
+    color: black;
+    background: #ffd429;
+    width: 220px;
+    display: block;
+    padding: 18px 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif; 
+    margin-top: 40px;
+}
+
+.forward {
+    color: black;
+    text-align: center;
+    margin-bottom: 80px;
+    font-size: 30px;
+}
+
+.ahead {
+    padding: 110px 0;
+}
+
+
+.wrapper2 p {
+    color: black;
+}
+
+.wrapper2{
+    
+    text-align: center;
+    display: flex;
+    align-content: space-between;
+}
+
+.wrapper2 div {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    align-items: center;
+    width: 290px;
+}
+
+.time {
+    background: url('../img/clock.jpg') no-repeat center top;
+    margin-top: 30px;
+}
+
+.travel {
+    background: url('../img/palm.jpg') no-repeat center top;
+    margin-top: 30px;
+}
+
+.precious {
+    background: url('../img/racket.jpg') no-repeat center top;
+    margin-top: 30px;
+}
+
+.future {
+    padding-top: 100px;
+    padding-bottom: 96px;
+    background: #ecf3f8;
+}
+
+input {
+    display: block;
+    width: 339px;
+    margin-bottom: 15px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 19px;
+    border: 1px solid #bbbbbb;
+    color: #bbbbbb;
+    border-radius: 5px;
+}
+
+.btn-form {
+    margin: 0;
+    width: 335px;
+    border: 0;
+    
+}
+
+.form {
+    margin-top: 45px;
+    
+}
+
+.formular {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer {
+    background: #164d7a;
+    margin: 0;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+
+   
